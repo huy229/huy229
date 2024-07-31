@@ -6,6 +6,6 @@
     <title>dự án html</title>
   </head>
   <body>
-    <h1>Máy mày dính virus rồi đó cu :)))</h1>
+  
   </body>
 </html>
